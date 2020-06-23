@@ -1,17 +1,1 @@
-[
-    {
-        "Challenge": "Gå en tur"
-    },
-    {
-        "Challenge": "Ring til en ven"
-    },
-    {
-        "Challenge": "Tag ud og handle"
-    },
-    {
-        "Challenge": "Tag ud og cykle"
-    },
-    {
-        "Challenge": "WINNER: INGEN CHALLENGE"
-    }
-]
+{"challenges":[{"Challenge":"Tag ud og cykle"},{"Challenge":"WINNER: INGEN CHALLENGE"}]}

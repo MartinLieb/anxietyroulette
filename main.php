@@ -20,6 +20,6 @@
   }
 
   $task = new Tasks("data.json");
-  $randItem = array_rand($task->getData());
-  echo json_encode($task->getData()[$randItem]);
+  $randItem = array_rand($task->getData()["challenges"]);
+  echo json_encode($task->getData()["challenges"][$randItem]);
 ?>

@@ -12,7 +12,7 @@ spin.addEventListener("click", function(){
       let obj = JSON.parse(this.response);
       console.log(obj);
       
-    text.innerHTML = "<h1>" + obj.Challenge + "</h1>";
+    text.innerHTML = "<h1>" + obj.challenges + "</h1>";
   };
 
   xhr.open("get", "main.php", true);
