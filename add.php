@@ -1,3 +1,10 @@
+<link rel="stylesheet" href="addstyle.css">
+
+<body>
+    <h1>Personliggør dine udfordringer her:</h1>
+
+
+
 <?php
     $file = file_get_contents('data.json');
     $data = json_decode($file, true);
@@ -26,3 +33,9 @@ if (isset($_POST["add"])) {
 </ul>
 
 </form>
+
+<button class="pbutton">
+    <a href="/anxietyroulette/">Tilbage</a>
+  </button>
+
+</body>

@@ -1,1 +1,25 @@
-{"challenges":[{"Challenge":"Tag ud og cykle"},{"Challenge":"WINNER: INGEN CHALLENGE"},{"Challenge":"spis en is"},{"Challenge":"sut en pik"}]}
+{
+    "challenges": [
+        {
+            "Challenge": "G\u00e5 en tur"
+        },
+        {
+            "Challenge": "Cykel en tur"
+        },
+        {
+            "Challenge": "Tag ud og handle"
+        },
+        {
+            "Challenge": "INGEN CHALLENGE"
+        },
+        {
+            "Challenge": "Tag kontakt til en ven"
+        },
+        {
+            "Challenge": "Tal med en fremmed"
+        },
+        {
+            "Challenge": "Lav en aftale"
+        }
+    ]
+}
